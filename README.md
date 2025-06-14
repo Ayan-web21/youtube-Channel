@@ -78,7 +78,7 @@
         </p>
         
         <!-- Button-like link to YouTube channel -->
-        <a href="https://www.youtube.com/c/1v1chicken-m1m" target="_blank">Jetzt meinen Kanal besuchen</a>
+        <a href="https://www.youtube.com/c/1v1chicken-m1m"target="_blank">Jetzt meinen Kanal besuchen</a>
     </div>
 
     <footer>
