@@ -1,0 +1,19 @@
+ </p>
+        
+        <!-- Button that triggers the JavaScript function -->
+        <button onclick="openYouTube()">Jetzt meinen Kanal besuchen</button>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 1v1chicken-m1m. Alle Rechte vorbehalten.</p>
+    </footer>
+
+    <script>
+        // JavaScript function to open YouTube channel in a new tab
+        function openYouTube() {
+            window.open('https://www.youtube.com/c/1v1chicken-m1m', '_blank');
+        }
+    </script>
+
+</body>
+</html>
