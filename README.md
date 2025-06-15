@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1v1chicken-m1m YouTube Kanal</title>
+    <title>1GAMEHUB l</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -67,22 +67,30 @@
 <body>
 
     <header>
-        <h1>Willkommen auf dem YouTube Kanal von 1v1chicken-m1m</h1>
+        <h1>Willkommen auf dem Gamehub </h1>
     </header>
 
     <div class="content">
-        <h2>Schau dir meine neuesten Videos an!</h2>
+        <h2>Schau dir meine spiel an!</h2>
         <p>
-            Du bist ein Gaming-Fan? Dann bist du hier genau richtig! Auf meinem Kanal findest du spannende Gaming-Videos, lustige Challenges und vieles mehr. 
+            Du bist ein Gaming-Fan? Dann bist du hier genau richtig! Auf meinem Gamehub findest du spannende Games  
             Klick auf den Button unten, um zu meinem Kanal zu gelangen und keinen Moment mehr zu verpassen!
         </p>
         
-        <!-- Button-like link to YouTube channel -->
-        <a href="https://www.youtube.com/1v1chicken-m1m" target="_blank">Jetzt meinen Kanal besuchen</a>
+        <!-- Button-like link to Game -->
+        <a href="https://ayan-web21.github.io/croosroads/" target="_blank">Jetzt meine Games besuchen</a>
+        
+    </div> 
+    
+    <!-- Button-like link to Game -->
+        <a href="https://ayan-web21.github.io/croosroads/" target="_blank">Jetzt meine Games besuchen</a>
+        
     </div>
+    
+    
 
     <footer>
-        <p>&copy; 2025 1v1chicken-m1m. Alle Rechte vorbehalten.</p>
+        <p>&copy; 2025 GAMEHUB. Alle Rechte vorbehalten.</p>
     </footer>
 
 </body>
